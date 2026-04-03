@@ -49,7 +49,7 @@
             <scope>runtime</scope>
         </dependency>
 
-        <!-- DevTools: Auto-restart on code change -->
+        <!-- DevTools: Auto-restart on code changes -->
         <dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-devtools</artifactId>
